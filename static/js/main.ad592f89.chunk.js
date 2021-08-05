@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-interactive-table"]=this["webpackJsonpreact-interactive-table"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),a=c.n(i),s=(c(8),c(0));var o=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("h1",{children:"Hello"})})};a.a.render(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.ad592f89.chunk.js.map
