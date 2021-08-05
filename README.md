@@ -26,4 +26,4 @@ An in-depth paragraph about your project and overview of use.
 Any advise for common problems or issues.
 For any contributing or problem solving you could find me [here]() and [here]()
 
-[demo][https://grynkiv0x001.github.io/react-interactive-table/]
+[demo]: https://grynkiv0x001.github.io/react-interactive-table/
